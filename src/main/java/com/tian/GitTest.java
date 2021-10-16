@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("Hello Git");
         System.out.println("Hello Git Too!!!");
         System.out.println("Hello Hot-Fix Too!!!");
+        System.out.println("Hello Hot-Fix 可能会造成合并冲突");
     }
 }
